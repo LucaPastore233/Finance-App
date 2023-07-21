@@ -1,6 +1,6 @@
-# Finance Mobile App UI
+# Finance App
 
-This is a Finance app where you can manage your money.
+This is a Finance app developed by Flutter which you can manage your money.
 
 ## Screenshots
 
